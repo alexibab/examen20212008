@@ -5,3 +5,8 @@
 .elementVisibleAIA{
 display:flex;
 }
+
+.seguentAIA{
+	position:absolute;
+	left:65%;
+}
